@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">M6_hw2</string>
+    <string name="photo_selection">Выбор фотографий</string>
+    <string name="selected_photos">Выбранные фотографии</string>
+    <string name="todo">TODO</string>
+    <string name="ready">Готово</string>
+    <string name="selected">\"Выбрано \"</string>
+    <string name="photographs">\" фотографий\"</string>
+</resources>
